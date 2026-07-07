@@ -47,6 +47,4 @@ The dashboard helps visualize trends, KPIs, disease distribution, and geographic
 
 Neha Patil
 
-Website
-
-https://sheflyingtech.com
+GitHub: https://github.com/yourusername
